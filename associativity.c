@@ -9,10 +9,10 @@ int main() {
 
     if(c + (a + b) == (c + a) + b)
     {
-        printf("Not Equal");
+        printf("Equal");
     }
     else{
-        printf("Equal");
+        printf("Not Equal");
     }
 
     return 0;
